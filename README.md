@@ -59,4 +59,4 @@ Prompt engineering is the practice of crafting precise inputs to improve AI resp
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A vague prompt would be: *"Tell me about computers." It is considered too broad and lacks focus
-✅ *"Summarize the technologies that were employed in the second generation of computers.It is clear, specific, and direct
+An improved prompt would be: Summarize the technologies that were employed in the second generation of computers.It is clear, specific, and direct
